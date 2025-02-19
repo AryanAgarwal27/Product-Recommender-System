@@ -1,18 +1,18 @@
-# Grocery & Gourmet Food Recommender System
+ **Project Description**  
+This project is an **Electrical Appliances Recommendation System** that suggests personalized appliance products based on user interactions. It leverages **Collaborative Filtering (User-Based & Item-Based)** to provide intelligent recommendations tailored to user preferences.
 
-📌 **Project Description**  
-This project is a **Grocery & Gourmet Food Recommendation System** that suggests personalized food items based on user interactions. It uses **Collaborative Filtering (User-Based & Item-Based)** to provide intelligent recommendations.  
+🛒 **The dataset for this project was web-scraped from Amazon's Electrical Appliances category**, capturing user reviews, ratings, and product details.
+🚀 **Features**  
+✔ **User-Based Collaborative Filtering** for personalized recommendations.  
+✔ **Item-Based Collaborative Filtering** to suggest similar products.  
+✔ **Web-Scraped Dataset from Amazon** for real-world appliance insights.  
 
-🛒 The dataset for this project was **web-scraped from Amazon's Grocery & Gourmet Food category**, capturing user reviews, ratings, and product details.
+---
 
-## 🚀 Features
-- **User-Based Collaborative Filtering** for personalized recommendations.
-- **Item-Based Collaborative Filtering** to suggest similar products.
-- **Web-Scraped Dataset from Amazon** for real-world product insights.
+📦 **Dataset**  
+The dataset is **too large to be uploaded to GitHub (5GB)**. Please contact the repository owner for access. The dataset was **web-scraped from Amazon**, containing **product details, user reviews, and ratings from the Electrical Appliances category**. It is preprocessed for building recommendation models.
 
-## 📦 Dataset
-The dataset is **too large to be uploaded to GitHub (5GB)**. Please contact the repository owner for access.
-The dataset was **web-scraped from Amazon**, containing product details, user reviews, and ratings from the **Grocery & Gourmet Food** category. It is preprocessed for building recommendation models.
+---
 
 ## 🔧 Installation
 To set up the project, install the required dependencies:
